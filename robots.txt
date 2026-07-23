@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-6t9470.laudosaude.com.br/sitemap.xml
